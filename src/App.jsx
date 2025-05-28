@@ -17,6 +17,9 @@ function App() {
         </a>
       </div>
       <button>Branch b3</button>
+      <button>Branch b2</button>
+      <button>Branch b1</button>
+      <button>Develop Branch</button>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
